@@ -1,5 +1,9 @@
 # BOT BY WRAPPER TELEGRAM IN PYTHON
 
+## Linguagem
+
+- Python
+
 ## Objetivo
 
 - [ ] Criar uma aplicação que consigo receber mensagens de um grupo.
